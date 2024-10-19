@@ -42,5 +42,4 @@ The Power BI dashboard provides a comprehensive overview, including total sales,
 - Streamline ingredient inventory management based on sales trends and demand forecasts.
 - Fine-tune marketing strategies and promotions to target specific customer segments more effectively.
 
-
-
+## [Power BI Link](https://bit.ly/3BRGAJi) 
